@@ -1,0 +1,59 @@
+  Fetch URL: https://github.com/mpontikes/univocity-parsers
+SHA: 8acd7015faa0fd88e286bcf97c7e570b9e5edba4
+[INFO] Scanning for projects...
+[INFO] Inspecting build with total of 1 modules...
+[INFO] Installing Nexus Staging features:
+[INFO]   ... total of 1 executions of maven-deploy-plugin replaced with nexus-staging-maven-plugin
+[INFO] 
+[INFO] ------------------< com.univocity:univocity-parsers >-------------------
+[INFO] Building univocity-parsers 2.8.3
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ univocity-parsers ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /private/tmp/univocity-parsers/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ univocity-parsers ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 215 source files to /private/tmp/univocity-parsers/target/classes
+[WARNING] /private/tmp/univocity-parsers/src/main/java/com/univocity/parsers/csv/CsvParser.java: Some input files use or override a deprecated API.
+[WARNING] /private/tmp/univocity-parsers/src/main/java/com/univocity/parsers/csv/CsvParser.java: Recompile with -Xlint:deprecation for details.
+[WARNING] /private/tmp/univocity-parsers/src/main/java/com/univocity/parsers/common/processor/core/AbstractProcessorSwitch.java: Some input files use unchecked or unsafe operations.
+[WARNING] /private/tmp/univocity-parsers/src/main/java/com/univocity/parsers/common/processor/core/AbstractProcessorSwitch.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-bundle-plugin:2.5.3:manifest (bundle-manifest) @ univocity-parsers ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ univocity-parsers ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 131 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ univocity-parsers ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 209 source files to /private/tmp/univocity-parsers/target/test-classes
+[WARNING] /private/tmp/univocity-parsers/src/test/java/com/univocity/parsers/issues/support/Ticket_1.java: Some input files use or override a deprecated API.
+[WARNING] /private/tmp/univocity-parsers/src/test/java/com/univocity/parsers/issues/support/Ticket_1.java: Recompile with -Xlint:deprecation for details.
+[WARNING] /private/tmp/univocity-parsers/src/test/java/com/univocity/parsers/examples/WriterExamples.java: Some input files use unchecked or unsafe operations.
+[WARNING] /private/tmp/univocity-parsers/src/test/java/com/univocity/parsers/examples/WriterExamples.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.17:test (default-test) @ univocity-parsers ---
+[INFO] Surefire report directory: /private/tmp/univocity-parsers/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestSuite
+Configuring TestNG with: TestNG652Configurator
+headers: [timestamp, memory_used]
+headers: [timestamp, memory_used]
+Tests run: 502, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.137 sec - in TestSuite
+
+Results :
+
+Tests run: 502, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 11.995 s
+[INFO] Finished at: 2019-09-28T13:53:24-05:00
+[INFO] ------------------------------------------------------------------------
