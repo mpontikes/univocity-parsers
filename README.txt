@@ -37,6 +37,7 @@ Git documentation
 
 Hours Spent on this Assignment:
 Approximately 7-8 hours
+The most time-intensive part was finding a project and working with Jacoco. Jacoco took up about 4 hours of our time trying to get working.
 
 Paired Programming Log:
 09/28, 11:00 - 3:00, Lobby of Regents West @ 24th (Michael's Apt.), Michael and Elgin, 4 hours
