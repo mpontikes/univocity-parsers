@@ -27,3 +27,20 @@ Tests run: 502, Failures: 0, Errors: 0, Skipped: 0
 real	0m10.802s
 user	0m32.038s
 sys	0m2.242s
+
+
+People and Resources who helped us with this assignment:
+Hayes Converse
+Stack Exchange
+Jacoco documentation
+Git documentation
+
+Hours Spent on this Assignment:
+Approximately 7-8 hours
+
+Paired Programming Log:
+09/28, 11:00 - 3:00, Lobby of Regents West @ 24th (Michael's Apt.), Michael and Elgin, 4 hours
+09/30, 2:00 - 5:45, EER 0th Floor and ECJ 1.304 (Lab Room), Michael and Elgin, 3.75 hours
+Total time 7.75 hours, 7.75 hours of paired 'programming'
+
+
